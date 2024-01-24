@@ -1,4 +1,4 @@
-# Hi, there 👋
+<h1 style="text-align: center">Hi, there 👋</h1>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img style="height: 192px; max-width: 320px; margin-right: 16px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rft0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
