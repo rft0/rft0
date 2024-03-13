@@ -16,7 +16,8 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-03002e?style=for-the-badge&logo=tensorflow)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-03002e?style=for-the-badge&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-03002e?style=for-the-badge&logo=laravel)&nbsp;
-![Javascript](https://img.shields.io/badge/Javascript-03002e?style=for-the-badge&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-03002e?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-03002e?style=for-the-badge&logo=typescript)&nbsp;
 ![Express](https://img.shields.io/badge/Express-03002e?style=for-the-badge&logo=express)&nbsp;
 ![React](https://img.shields.io/badge/React-03002e?style=for-the-badge&logo=react)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-03002e?style=for-the-badge&logo=tailwindcss)&nbsp;
