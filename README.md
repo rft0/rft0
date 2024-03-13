@@ -32,8 +32,8 @@
   <img style="height: 192px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rft0&layout=compact&langs_count=8&theme=nightowl"/>
 </div>
 
-### 🤝🏻 &nbsp;Contact with Me
-<div style="display: flex; justify-items: center; align-items: center;">
+<h3 align="center">🤝🏻&nbsp;&nbsp;Contact with Me</h3>
+<div align="center">
   <a href="mailto:rafettaskindev@gmail.com"><img alt="mail" src="https://img.shields.io/badge/mail_to_me-03002e?style=for-the-badge&logo=maildotru" /></a>
   <a href="https://linkedin.com/in/rafet-taskin" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-03002e?style=for-the-badge&logo=linkedin" /></a>
 </div>
