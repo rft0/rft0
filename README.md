@@ -10,7 +10,7 @@
 
 ![C](https://img.shields.io/badge/C-03002e?style=for-the-badge&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/C++-03002e?style=for-the-badge&logo=cplusplus)&nbsp;
-![Qt](https://img.shields.io/badge/Qt-03002e?style=for-the-badge&logo=qt)&nbsp;
+<!-- ![Qt](https://img.shields.io/badge/Qt-03002e?style=for-the-badge&logo=qt)&nbsp; -->
 ![Python](https://img.shields.io/badge/Python-03002e?style=for-the-badge&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-03002e?style=for-the-badge&logo=Flask)&nbsp;
 ![Pytorch](https://img.shields.io/badge/Pytorch-03002e?style=for-the-badge&logo=pytorch)&nbsp;
