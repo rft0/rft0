@@ -6,7 +6,7 @@
 </div>
 -->
 
-### 🛠&nbsp;&nbsp;Skills
+<!-- ### 🛠&nbsp;&nbsp;Skills
 
 ![C](https://img.shields.io/badge/C-03002e?style=for-the-badge&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/C++-03002e?style=for-the-badge&logo=cplusplus)&nbsp;
@@ -38,3 +38,4 @@
   <a href="mailto:rafettaskindev@gmail.com"><img alt="mail" src="https://img.shields.io/badge/mail_to_me-03002e?style=for-the-badge&logo=maildotru" /></a>
   <a href="https://linkedin.com/in/rafet-taskin" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-03002e?style=for-the-badge&logo=linkedin" /></a>
 </div>
+-->
