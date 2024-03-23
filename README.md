@@ -6,7 +6,8 @@
 </div>
 -->
 
-<!-- ### 🛠&nbsp;&nbsp;Skills
+<!--
+### 🛠&nbsp;&nbsp;Skills
 
 ![C](https://img.shields.io/badge/C-03002e?style=for-the-badge&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/C++-03002e?style=for-the-badge&logo=cplusplus)&nbsp;
